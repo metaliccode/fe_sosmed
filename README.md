@@ -1,6 +1,6 @@
-# sosmed
+# Sosmed FLutter dengan SDK Flutter 3
 
-A new Flutter project.
+Final Project setalah pelatihan Flutter dengan backend Laravel pada tanggal 11 - 15 Juli 2022
 
 ## Getting Started
 
